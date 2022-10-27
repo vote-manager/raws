@@ -1,0 +1,19 @@
+{
+  "name": "/",
+  "timeout": 30000,
+  "connector": false,
+  "env": [
+    {
+      "name": "CLIENT_SECRET",
+      "description": ""
+    },
+    {
+      "name": "CLIENT_ID",
+      "description": ""
+    },
+    {
+      "name": "BASE_URL",
+      "description": "BASE URL FOR ALL LINKS"
+    }
+  ]
+}
